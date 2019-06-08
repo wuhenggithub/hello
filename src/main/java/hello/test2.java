@@ -7,5 +7,5 @@ public class test2 {
     int e=5;
     int ff=1;
     int fff=111;
-    int zzz=220;
+    int zzzz=2222;
 }
