@@ -1,4 +1,4 @@
 package hello;
 
-public class f5 {
+public class f6 {
 }
